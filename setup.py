@@ -1,5 +1,6 @@
 import re
 import sys
+import setuptools
 from distutils.core import setup, Extension
 
 
